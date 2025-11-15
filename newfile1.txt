@@ -1,1 +1,0 @@
-this is some checking for newfile1/*
