@@ -2,5 +2,7 @@ this is testing file from github to VScode
 updated 1 { for checking in VS code} ---> eq(1)
 from: vs code;
 { checked the eq(1) }
+from: githun; to: VScode;
+{Thankyou for reply, and i(github) received ur verification of eq(1) }
 .
 .
