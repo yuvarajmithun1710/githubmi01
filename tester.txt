@@ -1,4 +1,6 @@
 this is testing file from github to VScode
-updated 1 { for checking in VS code}
+updated 1 { for checking in VS code} ---> eq(1)
+from: vs code;
+{ checked the eq(1) }
 .
 .
